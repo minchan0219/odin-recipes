@@ -1,0 +1,35 @@
+body {
+    
+    background-color:antiquewhite
+    
+}
+.box {
+    width:800px;
+    margin: 20px auto;
+    background-color:#C2D8B9;
+    border: 10px solid #a1b5d8;
+    box-sizing: border-box;
+}
+
+.heading {
+    background-color: #FFFCF7;
+    font-size: 50px;
+    font-family: sans-serif, arial;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 10px;
+}
+.texts {
+    background-color: #FFFCF7;
+    font-size: 35px;
+    font-family: sans-serif, arial;
+    padding: 5px;
+    margin: 10px 10px;
+}
+.buttons {
+    display:inline-block;
+    height: 50px;
+    width:100px;
+    background-color: #A1B5D8;
+    font-size: 20px;
+}
